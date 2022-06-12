@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 88.5 88.5" style="enable-background:new 0 0 98.826 110.606;" xmlns="http://www.w3.org/2000/svg">
-  <style type="text/css">
-	.st0{fill:none;stroke:#b4bfca;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;transform-origin:center;}
-	.st1{fill:none;stroke:#929497;stroke-width:3.3332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-</style>
-  <path class="st0 ring" d="M 84.245 59.132 C 78.204 75.38 62.556 86.955 44.205 86.955 C 20.62 86.955 1.5 67.835 1.5 44.25 C 1.5 20.665 20.62 1.545 44.205 1.545 C 62.24 1.545 77.663 12.724 83.924 28.531"/>
-  <g id="icon-pullrequest_1_" transform="matrix(1, 0, 0, 1, -5.531003, -17.143)">
-    <circle class="st1" cx="38.068" cy="46.373" r="4.722"/>
-    <circle class="st1" cx="38.068" cy="75.428" r="4.722"/>
-    <circle class="st1" cx="61.4" cy="75.428" r="4.722"/>
-    <line class="st1" x1="38.068" y1="51.095" x2="38.068" y2="70.706"/>
-    <path class="st1" d="M53.206,41.262c0,0-5.417,5.417-5.417,5.472h6.667c0,0,6.889-0.417,6.889,6.833s0,17.055,0,17.055"/>
-    <path class="st1" d="M53.206,52.206c0,0-5.417-5.417-5.417-5.472"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" x="0" y="0" version="1.1" viewBox="0 0 88.5 88.5" style="enable-background:new 0 0 98.826 110.606"><style type="text/css">.st0,.st1{fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}.st0{stroke:#b4bfca;stroke-width:3;transform-origin:center}.st1{stroke:#929497;stroke-width:3.3332}</style><path d="M 84.245 59.132 C 78.204 75.38 62.556 86.955 44.205 86.955 C 20.62 86.955 1.5 67.835 1.5 44.25 C 1.5 20.665 20.62 1.545 44.205 1.545 C 62.24 1.545 77.663 12.724 83.924 28.531" class="st0 ring"/><g id="icon-pullrequest_1_" transform="matrix(1, 0, 0, 1, -5.531003, -17.143)"><circle cx="38.068" cy="46.373" r="4.722" class="st1"/><circle cx="38.068" cy="75.428" r="4.722" class="st1"/><circle cx="61.4" cy="75.428" r="4.722" class="st1"/><line x1="38.068" x2="38.068" y1="51.095" y2="70.706" class="st1"/><path d="M53.206,41.262c0,0-5.417,5.417-5.417,5.472h6.667c0,0,6.889-0.417,6.889,6.833s0,17.055,0,17.055" class="st1"/><path d="M53.206,52.206c0,0-5.417-5.417-5.417-5.472" class="st1"/></g></svg>
